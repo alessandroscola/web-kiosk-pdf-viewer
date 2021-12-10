@@ -33,7 +33,7 @@ define('CONFIG_BASE_URL', 'http://localhost/web-kiosk-pdf-viewer-main');
 $HOME=CONFIG_BASE_URL;
 ?>
 ```
-change **CONFIG_BASE_URL** to match your site intallation
+change **CONFIG_BASE_URL** to match your site installation
 ## Live Demo:
 
 Try a live working demo [here](https://www.alessandroscola.com/web-kiosk-pdf-viewer/)
