@@ -34,7 +34,8 @@ if(isset($_GET['pag']) and !empty($_GET['pag'])) $pag=$_GET['pag'];
 	<link rel="stylesheet" href="css/custom.css">
 	
 	<!-- Keyboard CSS -->
-	<link rel="stylesheet" type="text/css" href="<?php print CONFIG_BASE_URL ?>/keyboard-master/css/keyboard-basic-custom.css">	
+	<link rel="stylesheet" type="text/css" href="keyboard-master/css/keyboard-basic-custom.css">	
+	
 	
 		
     <title>PDF Viewer Demo</title>
@@ -65,12 +66,13 @@ if(isset($_GET['pag']) and !empty($_GET['pag'])) $pag=$_GET['pag'];
 		</div> <!-- wrapper -->
 		  
 				
-		<script src="<?php print CONFIG_BASE_URL ?>/keyboard-master/dist/js/jquery.keyboard.min.js"></script>
+		<script src="keyboard-master/dist/js/jquery.keyboard.min.js"></script>
 		<!-- keyboard extensions (optional) -->
-		<script src="<?php print CONFIG_BASE_URL ?>/keyboard-master/dist/js/jquery.mousewheel.min.js"></script>
-		<script src="<?php print CONFIG_BASE_URL ?>/keyboard-master/dist/js/jquery.keyboard.extension-typing.min.js"></script>
-		<script src="<?php print CONFIG_BASE_URL ?>/keyboard-master/dist/js/jquery.keyboard.extension-caret.min.js"></script>
+		<script src="keyboard-master/dist/js/jquery.mousewheel.min.js"></script>
+		<script src="keyboard-master/dist/js/jquery.keyboard.extension-typing.min.js"></script>
+		<script src="keyboard-master/dist/js/jquery.keyboard.extension-caret.min.js"></script>
 		
+
 		
     </body>
 </html>
