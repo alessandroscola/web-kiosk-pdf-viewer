@@ -8,7 +8,7 @@ header("Content-type:application/pdf");
 // It will be called downloaded.pdf
 header("Content-Disposition:inline;filename='".$filename."'");
 
- $filename_path="../PDF_FILES/".$filename.".pdf";
+ $filename_path="../PDF_FILES/".basename($filename).".pdf";
  $filename_path_not_fount="../PDF_FILES/PDF_NOT_FOUND.pdf";
  
  if(file_exists($filename_path))
