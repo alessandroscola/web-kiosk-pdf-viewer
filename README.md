@@ -24,7 +24,16 @@ you can use a __touch screen monitor__ and easly do this operations:
 The magic is done by the [PDF.js](https://github.com/mozilla/pdf.js) project, that trasforms PDF document into HTML5 object. 
 I used this library and merged into a responsive webpage to easly find documents.
 I also added a really cool [Javascript KEYBOARD](https://github.com/Mottie/Keyboard)
-
+## Usage
+Edit **config.php**
+```php
+<?php
+// BASE URL OF THE SITE
+define('CONFIG_BASE_URL', 'http://localhost/web-kiosk-pdf-viewer-main');
+$HOME=CONFIG_BASE_URL;
+?>
+```
+change **CONFIG_BASE_URL** to match your site intallation
 ## Live Demo:
 
 Try a live working demo [here](https://www.alessandroscola.com/web-kiosk-pdf-viewer/)
