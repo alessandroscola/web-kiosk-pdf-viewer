@@ -34,6 +34,10 @@ $HOME=CONFIG_BASE_URL;
 ?>
 ```
 change **CONFIG_BASE_URL** to match your site installation
+
+Put your PDF files into the **PDF_FILES** folder or map that folder to another file server.
+
+
 ## Live Demo:
 
 Try a live working demo [here](https://www.alessandroscola.com/web-kiosk-pdf-viewer/)
