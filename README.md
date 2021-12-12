@@ -5,6 +5,8 @@ The interface is designed for a **Kiosk interface** as touch screens. No keyboar
 
 [![Web Kiosk with Raspberry Pi 4](https://img.youtube.com/vi/4O5nr4Ld83Q/0.jpg)](https://www.youtube.com/watch?v=4O5nr4Ld83Q)
 
+[![Visualizzare Documewnti PDF con HTML5](https://img.youtube.com/vi/gUJjULlm_W8/0.jpg)](https://youtu.be/gUJjULlm_W8)
+
 
 You can use a normal web broser or ..
 you can use a __touch screen monitor__ and easly do this operations:
