@@ -51,7 +51,9 @@ Watch how it works [here](https://www.youtube.com/watch?v=4O5nr4Ld83Q)
 My [**blog article regarding this project**](https://www.alessandroscola.com/software/visualizzare-pdf-con-html5.html) (italian version)
 
 Read also my article:
+
 [**how to build a Web kiosk with Raspberry Pi 4**](https://www.alessandroscola.com/en/computers/create-a-web-multimedia-kiosk-with-raspberry.html) (English version)
+
 [**how to build a Web kiosk with Raspberry Pi 4**](https://www.alessandroscola.com/computer/chiosco-multimediale-web-con-raspberry.html) (Italian version)
 
 
